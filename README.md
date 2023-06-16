@@ -23,5 +23,5 @@ A simple Python program that greets the user and welcomes them to the world of P
 https://imgur.com/a/p4E4asg
 
 ## Credits
-- Author: Violetta Lankorska https://github.com/lankorskaya
+ Author: Violetta Lankorska https://github.com/lankorskaya
 
