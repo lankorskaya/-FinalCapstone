@@ -17,7 +17,8 @@ A simple Python program that greets the user and welcomes them to the world of P
 3. Enter your name when prompted.
 4. The program will greet you with a welcome message.
 
-![Screenshot]([https://imgur.com/a/p4E4asg])
+Screenshot
+https://imgur.com/a/p4E4asg
 
 ## Credits
 - Author: Violetta Lankorska https://github.com/lankorskaya
