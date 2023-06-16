@@ -8,8 +8,10 @@ A simple Python program that greets the user and welcomes them to the world of P
 - [Credits](#credits)
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/your-username/simple-greeting-program.git`
-2. Navigate to the project directory: `cd simple-greeting-program`
+1. Clone the repository: `git clone https://github.com/lankorskaya/-FinalCapstone.git`
+2. Navigate to the project directory: `cd -FinalCapstone`
+3. Open the greeting.py file to view the code.
+
 
 ## Usage
 1. Open a terminal or command prompt.
@@ -17,7 +19,7 @@ A simple Python program that greets the user and welcomes them to the world of P
 3. Enter your name when prompted.
 4. The program will greet you with a welcome message.
 
-Screenshot
+##Screenshot
 https://imgur.com/a/p4E4asg
 
 ## Credits
